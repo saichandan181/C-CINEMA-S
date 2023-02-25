@@ -1,6 +1,6 @@
-# CINEMAA
+# C CINEMA'S
 
-CINEMAA is a website where you can stream different movies and tv shows for free. This is made purely for education purpose. i made this websit as my first big project when i was just a beginner in web development. since then i have learned alot.
+C CINEMA'S is a website where you can stream different movies and tv shows for free. This is made purely for education purpose. i made this websit as my first big project when i was just a beginner in web development. since then i have learned alot.
 
 ## Screenshots
 
