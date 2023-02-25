@@ -11,7 +11,7 @@ CINEMAA is a website where you can stream different movies and tv shows for free
 
 ## Demo
 
-www.cinemaa.ga
+https://saichandan181.github.io/C-CINEMA-S/
 
 ## Features
 
@@ -25,11 +25,6 @@ www.cinemaa.ga
 - Resposive for all devices
 - No Ad
 
-## License
-
-[MIT](https://github.com/immdipu/CINEMAA/blob/main/LICENSE)
-
-![Logo](https://iwebp.extraimage.xyz/webp/auto/90/CJEW4LsOK5MjRukb_p_ok3T3ag77TJaDA1pcToko9C5BHdq9VKD0UBcqWUA7De_s_po7bUzs.webp)
 
 ## Future plans
 
